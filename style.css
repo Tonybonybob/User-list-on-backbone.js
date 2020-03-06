@@ -1,5 +1,10 @@
 td {
     width: 250px;
+    padding: .9em .75em !important;
+}
+
+th {
+    text-align: center !important;
 }
 
 .btn-wrap {
@@ -12,6 +17,7 @@ td {
 }
 
 .field {
+    position: relative;
     height: 40px;
     display: flex;
     flex-direction: column;
@@ -30,4 +36,9 @@ td {
 
 .full-width {
     width: 100%;
+}
+
+.help {
+    position: absolute;
+    bottom: -16px;
 }
