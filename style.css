@@ -1,0 +1,33 @@
+td {
+    width: 250px;
+}
+
+.btn-wrap {
+    display: flex;
+}
+
+.edit-user,
+.update-user {
+    margin-right: 5px;
+}
+
+.field {
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.table {
+    margin: 30px auto;
+}
+
+.columns {
+    margin-left: 7%;
+    justify-content: center;
+}
+
+.full-width {
+    width: 100%;
+}
