@@ -4,5 +4,5 @@ I created it on backbone.js library. For styling I used Bulma framework.
 
 Download and execute comand bower install
 
-#Screenshot
+## Screenshot
 ![UserList](https://github.com/Tonybonybob/User-list-on-backbone.js/raw/master/blackboneJS.png)
